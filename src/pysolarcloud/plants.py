@@ -310,5 +310,4 @@ class Plants:
         "83332": "total_pv_yield", # Wh
         "83334": "energy_storage_soc_ems", # 
         "83335": "energy_storage_remaining_charge_ems", # Wh
-        "8018": "meter_active_power", # W
     }
